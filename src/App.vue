@@ -44,7 +44,7 @@ export default {
 body {
   padding: 0;
   margin: 0;
-  background: linear-gradient(to right, #c71847 50%, #d93b65 50%);
+  background: linear-gradient(to right, #cb2964 50%, #d36 50%);
 }
 
 h1 {
